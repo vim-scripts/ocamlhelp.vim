@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=771
+
+Objective Caml txt-format reference manual reader, with syntax coloring of
+examples. :edit ocaml-<current version>-refman.txt, press <Enter> on
+highlighted section numbers to jump.
+
